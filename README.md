@@ -26,4 +26,4 @@ In the index, I would like you to add yourself and I hope you gain knowledge fro
 
 - Doesn't pin new or updated comments
 - What you should be looking at must have the module installed, without it you won't be able to use that code. on the Modlue *(top priority)*
-- Not currently automated
+- Not currently automate
