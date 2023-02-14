@@ -1,4 +1,4 @@
-const RPC = require('discord-rpc');
+const RPC = require('discord-rpc')
 const { receiveMessageOnPort } = require('worker_threads');
 const rpc = new RPC.Client({
     transport: 'ipc'
