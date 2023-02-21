@@ -7,17 +7,7 @@ DanLoans
 
 **Only use if you know what the code actually does. I'm not responsible for your use of this code in anyway, or any bugs that may be in the code. Honestly, you shouldn't trust any code I write - I don't.**
 
-Install Command:
-        
-        npm init -y
-        
-        npm install discord.js
 
-        
-
-Run Command:
-    
-	node .
 
 Known Issues & Bugs
 -------------------
